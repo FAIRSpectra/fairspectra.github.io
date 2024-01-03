@@ -4,7 +4,6 @@ date: 2023-09-02T17:00:00+01:00
 layout: page
 link: http://fairspectra.net/about/
 slug: about
-# title: About
 ---
 
 ## About FAIRSpectra
