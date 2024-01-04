@@ -4,6 +4,7 @@ date: 2023-09-02T17:00:00+01:00
 layout: page
 link: http://fairspectra.net/about/
 slug: about
+title: ""
 ---
 
 ## About FAIRSpectra
@@ -31,3 +32,9 @@ We are grateful for financial support from:
 
  * [The Office for Open Research, University of Manchester, UK](https://www.openresearch.manchester.ac.uk/)
  * [SurfaceSpectra Ltd.](http://surfacespectra.com)
+ 
+Website template: Beautiful Jekyll by Dean Attali https://beautifuljekyll.com/
+
+Logo: [Frequency icons created by Pixel perfect - Flaticon](https://www.flaticon.com/free-icons/frequency)
+
+Other support includes UKSAF (http://www.uksaf.net/) for exhibition space. 
