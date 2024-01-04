@@ -27,6 +27,7 @@ navbar-links:
     - Minimum Reporting Requirements: definitions/minimum-reporting-requirements
     - Semantics: definitions/semantics
   Resources: "resources"
+  Blog: "blog"
   GitHub: "https://github.com/FAIRSpectra"
   About: "about"
 
@@ -304,3 +305,4 @@ plugins:
   - jekyll-sitemap
 
 baseurl: /
+paginate_path: "/blog/page:num/"
