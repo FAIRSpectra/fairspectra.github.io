@@ -4,11 +4,8 @@ date: 2023-09-02T17:00:00+01:00
 layout: page
 link: http://fairspectra.net/about/
 slug: about
-title: ""
 ---
-#   
 
-## About FAIRSpectra
 
 There is now a growing requirement for data acquired on projects supported by national funding programmes to be shared openly. This includes organisations such as UKRI, ERC, Horizon, NIH, NSF, Wellcome, DFG etc.
 
