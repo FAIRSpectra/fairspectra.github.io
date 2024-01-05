@@ -26,7 +26,9 @@ navbar-links:
     - Metadata: "definitions/metadata"
     - Minimum Reporting Requirements: definitions/minimum-reporting-requirements
     - Semantics: definitions/semantics
-  Resources: "resources"
+  Resources:
+    - Overview: resources/overview
+    - JCAMP-DX: resources/jcamp-dx
   Blog: "blog"
   GitHub: "https://github.com/FAIRSpectra"
   About: "about"
