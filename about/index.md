@@ -6,12 +6,9 @@ link: http://fairspectra.net/about/
 slug: about
 ---
 
+In 2003 the [Office for Open Research at the University of Manchester](https://www.openresearch.manchester.ac.uk/) awarded [Alex Henderson](http://alexhenderson.info/) a fellowship to develop the FAIRSpectra initiative. This programme of work has two main activities: to develop an open file format for hyperspectral data produced by vibrational spectroscopies and mass spectrometries, and to explore the metadata requirements for sharing such data. Following the concept of the [FAIR Guiding Principles](/definitions/fair-principles/) this would fall into the Interoperability and Reusability categories. 
 
-There is now a growing requirement for data acquired on projects supported by national funding programmes to be shared openly. This includes organisations such as UKRI, ERC, Horizon, NIH, NSF, Wellcome, DFG etc.
-
-Sharing data requires that the files must be readable by others and can be understood in terms of their content.
-
-FAIRSpectra aims to tackle issues with interoperability and reusability, as defined by the FAIR Principles. This has been broken down into two areas of activity: open file formats and metadata vocabulary.
+FAIRSpectra’s aim is to open a discussion about what the chemical analysis field requires, in terms of file format support, with specific interest to the imaging modalities of spectroscopy and spectrometry. As such we invite all interested parties to get involved, share expertise, and become part of the solution. 
 
 
 ### Contact
