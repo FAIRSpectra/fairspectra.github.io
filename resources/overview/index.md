@@ -13,11 +13,11 @@ Ideally a file format should be self-describing. Some existing data file formats
 ### Spectrum-focussed
 - [JCAMP-DX](/resources/jcamp-dx)
 - [Thermo Galactic SPC](https://en.wikipedia.org/wiki/SPC_file_format) which can accomodate multiple spectra and images
-- [ISO 14976:1998](/resources/iso-14976), the so-called VAMAS format
+- [ISO 14976:1998](/resources/iso-14976), the so-called *VAMAS format*
   - [ISO 22048:2004](https://www.iso.org/standard/34817.html) in conjunction with ISO 14976:1998 to accommodate a non-linear x-axis as found in ToF-SIMS
 
 ### Hyperspectral image-focussed
-- [imzML](https://ms-imaging.org/imzml/) for MALDI and SIMS 
+- [imzML](https://ms-imaging.org/imzml/) for MALDI/DESI and SIMS 
 
 ### Other formats that could be explored include
 - [NetCDF](https://www.unidata.ucar.edu/software/netcdf/)
