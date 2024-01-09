@@ -8,7 +8,7 @@ title: JCAMP-DX
 ---
 
 ## Background
-[JCAMP](https://en.wikipedia.org/wiki/Joint_Committee_on_Atomic_and_Molecular_Physical_Data) is the Joint Committee on Atomic and Molecular Physical Data and [JCAMP-DX](https://en.wikipedia.org/wiki/JCAMP-DX) is an ASCII text file format to store spectra and spectral images. Since the format is text-based there is a practical limit to the amount of data that can be stored. Too many data points will result in a very large file. 
+[JCAMP](https://en.wikipedia.org/wiki/Joint_Committee_on_Atomic_and_Molecular_Physical_Data) is the Joint Committee on Atomic and Molecular Physical Data and [JCAMP-DX](https://en.wikipedia.org/wiki/JCAMP-DX) is an ASCII text file format to store spectra. The format is text-based meaning it is human-readable and can be edited using a text editor. 
 
 The format was developed in 1988 for infrared spectroscopy. Later this was augmented to accommodate NMR and mass spectrometry. Some information can be found on the [IUPAC](https://iupac.org/) affiliated website [http://www.jcamp-dx.org/](http://www.jcamp-dx.org/). 
 

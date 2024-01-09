@@ -28,6 +28,7 @@ navbar-links:
     - Semantics: definitions/semantics
   Resources:
     - Overview: resources/overview
+    - ISO 14976: resources/iso-14976
     - JCAMP-DX: resources/jcamp-dx
   Blog: "blog"
   GitHub: "https://github.com/FAIRSpectra"
