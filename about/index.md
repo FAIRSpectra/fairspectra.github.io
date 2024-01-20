@@ -30,8 +30,6 @@ We are grateful for financial support from:
  
 In-kind support includes [SIMS Europe](https://www.sims-europe.org/) and [UKSAF ](http://www.uksaf.net/) for conference exhibition space. 
 
-Website template: [Beautiful Jekyll](https://beautifuljekyll.com/) by Dean Attali. 
-
-Logo: [Frequency icons created by Pixel perfect - Flaticon](https://www.flaticon.com/free-icons/frequency)
-
+Website template: [Beautiful Jekyll](https://beautifuljekyll.com/) by Dean Attali.  
+Logo: [Frequency icons created by Pixel perfect - Flaticon](https://www.flaticon.com/free-icons/frequency)  
 Discussion platform: Free upgrade from [Zulip](https://zulip.com/)
