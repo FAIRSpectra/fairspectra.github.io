@@ -64,6 +64,7 @@ social-network-links:
   email: "alex.henderson@manchester.ac.uk"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: fairspectra
+  zulip: https://fairspectra.zulipchat.com/
 #  discord: "PDfDXMh9wj" 
 #  facebook: yourname
 #  twitter: yourname
