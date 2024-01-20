@@ -34,4 +34,4 @@ Website template: [Beautiful Jekyll](https://beautifuljekyll.com/) by Dean Attal
 
 Logo: [Frequency icons created by Pixel perfect - Flaticon](https://www.flaticon.com/free-icons/frequency)
 
-
+Discussion platform: Free upgrade from [Zulip](https://zulip.com/)
