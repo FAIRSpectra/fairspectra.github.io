@@ -13,7 +13,7 @@ FAIRSpectra’s aim is to open a discussion about what the chemical analysis fie
 
 ### Contact
 
-Email Alex Henderson at [alex.henderson@manchester.ac.uk](mailto:alex.henderson@manchester.ac.uk), or consider joining our Discord group using this link [https://discord.gg/xdm3pJxR](https://discord.gg/xdm3pJxR). 
+Email Alex Henderson at [alex.henderson@manchester.ac.uk](mailto:alex.henderson@manchester.ac.uk), or consider joining our discussion platform using here [http://tiny.cc/join-FAIRSpectra](http://tiny.cc/join-FAIRSpectra). 
 
 
 ### Contributors
