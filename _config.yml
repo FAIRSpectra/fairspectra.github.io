@@ -30,7 +30,7 @@ navbar-links:
     - Overview: resources/overview
     - ISO 14976: resources/iso-14976
     - JCAMP-DX: resources/jcamp-dx
-  Blog: "blog"
+  News: "news"
   GitHub: "https://github.com/FAIRSpectra"
   About: "about"
 
@@ -309,4 +309,4 @@ plugins:
   - jekyll-sitemap
 
 baseurl: /
-paginate_path: "/blog/page:num/"
+paginate_path: "/news/page:num/"
