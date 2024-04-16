@@ -1,6 +1,7 @@
 ---
 author: alexhenderson
 date: 2023-09-02T17:00:00+01:00
+modified: 2024-04-16 
 layout: page
 link: http://fairspectra.net/about/
 slug: about
@@ -28,7 +29,7 @@ We are grateful for financial support from:
  * [The Office for Open Research, University of Manchester, UK](https://www.openresearch.manchester.ac.uk/)
  * [SurfaceSpectra Ltd.](http://surfacespectra.com)
  
-In-kind support includes [SIMS Europe](https://www.sims-europe.org/) and [UKSAF ](http://www.uksaf.net/) for conference exhibition space. 
+In-kind support includes [SIMS Europe](https://www.sims-europe.org/), [UKSAF](http://www.uksaf.net/), and [SpringSciX](https://www.springscix.org/) for conference exhibition space. 
 
 Website template: [Beautiful Jekyll](https://beautifuljekyll.com/) by Dean Attali  
 Logo: [Frequency icons created by Pixel perfect - Flaticon](https://www.flaticon.com/free-icons/frequency)  
