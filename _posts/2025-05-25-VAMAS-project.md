@@ -5,7 +5,7 @@ layout: post
 link: http://fairspectra.net/posts/2025-05-25-VAMAS-project/
 slug: 2025-05-25-VAMAS-project
 title: Comprehensive file format for the measurement and analysis of surface chemical analysis data
-tags: [VAMAS]
+tags: [VAMAS, round-robin]
 categories:
     - projects
 ---
