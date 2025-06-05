@@ -16,17 +16,17 @@ At this year’s event, FAIRSpectra have been invited to run a workshop that Ale
 
 Alex will also present a poster on “International Initiatives Relating to SIMS”. This covers our FAIRSpectra Initiative, and includes activities in ISO, VAMAS, FAIRmat and the various NDFI communities. Probably too much for a poster, but there will be time for discussion at the meeting to explore opportunities and challenges in SIMS data management.  
 
-A PDF of the poster can be found at https://doi.org/10.5281/zenodo.15600950, and below are links mentioned in the text.  
+A PDF of the poster can be found at [https://doi.org/10.5281/zenodo.15600950](https://doi.org/10.5281/zenodo.15600950), and below are links mentioned in the text.  
 
-- ISO TC 201 "Surface chemical analysis" https://www.iso.org/committee/54618.html
-    - SC 1 "Terminology" https://www.iso.org/committee/54624.html
-    - SC 2 "General procedures" https://www.iso.org/committee/54630.html
-    - SC 3 "Data management and treatment" https://www.iso.org/committee/54638.html
-    - SC 4 "Depth profiling" https://www.iso.org/committee/54646.html
-    - SC 6 "Mass spectrometries" https://www.iso.org/committee/54656.html
-- VAMAS https://www.vamas.org/
-    - VAMAS TWA 2 Project A 45 https://www.vamas.org/twa2/documents/vamas_twa2_p_a45_data_file_format.pdf
-- FAIRmat https://www.fairmat-nfdi.eu/
-- NDFI https://www.nfdi.de/consortia/
+- ISO TC 201 "Surface chemical analysis" [https://www.iso.org/committee/54618.html](https://www.iso.org/committee/54618.html)
+    - SC 1 "Terminology" [https://www.iso.org/committee/54624.html](https://www.iso.org/committee/54624.html)
+    - SC 2 "General procedures" [https://www.iso.org/committee/54630.html](https://www.iso.org/committee/54630.html)
+    - SC 3 "Data management and treatment" [https://www.iso.org/committee/54638.html](https://www.iso.org/committee/54638.html)
+    - SC 4 "Depth profiling" [https://www.iso.org/committee/54646.html](https://www.iso.org/committee/54646.html)
+    - SC 6 "Mass spectrometries" [https://www.iso.org/committee/54656.html](https://www.iso.org/committee/54656.html)
+- VAMAS [https://www.vamas.org/](https://www.vamas.org/)
+    - VAMAS TWA 2 Project A 45 [https://www.vamas.org/twa2/documents/vamas_twa2_p_a45_data_file_format.pdf](https://www.vamas.org/twa2/documents/vamas_twa2_p_a45_data_file_format.pdf)
+- FAIRmat [https://www.fairmat-nfdi.eu/](https://www.fairmat-nfdi.eu/)
+- NDFI [https://www.nfdi.de/consortia/](https://www.nfdi.de/consortia/)
 
 
