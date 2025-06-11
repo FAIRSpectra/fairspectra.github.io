@@ -309,4 +309,4 @@ plugins:
   - jekyll-sitemap
 
 baseurl: /
-paginate_path: "/posts/page:num/"
+paginate_path: "/news/page:num/"
