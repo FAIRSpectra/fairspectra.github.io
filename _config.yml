@@ -30,7 +30,7 @@ navbar-links:
     - Overview: resources/overview
     - ISO 14976: resources/iso-14976
     - JCAMP-DX: resources/jcamp-dx
-  News: "posts"
+  News: "news"
   GitHub: "https://github.com/FAIRSpectra"
   About: "about"
 
